@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-    Gourmet Berries Shopping Cart
+    Gourmet Berries Online Ordering - Beta
 @endsection
 @section('content')
     <!--Row 1-->
